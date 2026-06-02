@@ -1,0 +1,10 @@
+
+    Pizza Sales Analysis
+
+Q1. Retrieve the Total Number of Orders Placed
+Q2. Calculate the Total Revenue Generated from Pizza Sales
+Q3. Identify the Highest-Priced Pizza
+Q4. Identify the Most Common Pizza Size Ordered
+Q5. List the Top 5 Most Ordered Pizza Types Along with Their Quantities
+Q6. Find the Category-wise Distribution of Pizzas
+Q7. Determine the Top 3 Most OrdQ8. Calculate the Percentage Contribution of Each Pizza Type to Total Revenueered Pizza Types Based on Revenue
